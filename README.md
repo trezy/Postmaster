@@ -8,7 +8,7 @@ The state of rich email is dismal to say the least. Creating emails that are any
 
 ## The solution
 
-My goal with Postmaster is to remove that necessity. While Postmaster should be able to render emails written in the current dismal ecosystem of email, it will also enable email to be sent with a new header - `theFutureIsHere`(TM) (subject to change). This header will tell Postmaster that there is a beautiful, modern version of the code for this email and to render it with the best, most modern technologies available. Eventually I'd even likle to add limited Javascript support.
+My goal with Postmaster is to remove that necessity. While Postmaster should be able to render emails written in the current dismal ecosystem of email, it will also enable email to be sent with a new header - `theFutureIsHere`:copyright: (subject to change). This header will tell Postmaster that there is a beautiful, modern version of the code for this email and to render it with the best, most modern technologies available. Eventually I'd even likle to add limited Javascript support.
 
 ## The goal
 
